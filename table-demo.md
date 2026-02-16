@@ -1,6 +1,7 @@
 ---
 layout: liquid-table
 title: 'Table Demo'
+
 reynolds:
   strengths:
   - good father
@@ -21,7 +22,7 @@ gosling:
   - not ryan reynolds
 ---
 
-![](img/ryan-v-ryan.jpg)  
+[](img/ryan-v-ryan.jpg)  
 
 ### Lorem Ipsum
 
