@@ -14,7 +14,7 @@ author: Carrie
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Grad Student at ASU"
+  About Me: ""
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
