@@ -258,18 +258,18 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 30px;
 }
 
-# only <h3> headers between <div class=gs-section-02> tags
+# only <h4> headers between <div class=gs-section-02> tags
 
- .gs-section-02 h3 { 
+ .gs-section-02 h4 { 
      color: pink }
 
 .gs-section-02 p {
-     font-size: 35px;
+     font-size: 20px;
 }
 
- # only <h3> headers between <div class=gs-section-02> tags
+ # only <h2> headers between <div class=gs-section-03> tags
 
- .gs-section-03 h3 { 
+ .gs-section-03 h2 { 
      color: green }
 
 .gs-section-03 p {
